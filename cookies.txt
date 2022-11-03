@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wix.com	TRUE	/gift-card	FALSE	1999999999	_wixAB3	1163885#1
+.wix.com	TRUE	/cart-page	FALSE	1999999999	_wixAB3	1163885#1
+www.freak.pe	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667497216|hYyKdm-w3mJN
+www.freak.pe	TRUE	/	FALSE	1999999999	hs	-643585502
+www.freak.pe	TRUE	/	FALSE	1999999999	svSession	a6f623cecdd2c0229c05ff0dffe194c0912189fc24d707370b727d21baee8d697c34fc5d81f9c6c1df35fd3edf70fe011e60994d53964e647acf431e4f798bcd2d1f2c46c9a7015c7ce0f99710063bf1270e3a3f710ad68f23ef952efd36ad26fdc53447f2a934411eb95b8d6e1b8514060f4c3e1ba8837ae0c936bc32add8ffe642bb002f566b6988d08d18e2762499
+www.freak.pe	TRUE	/	FALSE	1999999999	SameSite	None
+www.freak.pe	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly
+
